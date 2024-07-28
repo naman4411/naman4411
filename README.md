@@ -1,9 +1,3 @@
-- 👋 Hi, I’m @naman4411
-- 👀 I’m interested in Database management
-- 🌱 I’m currently learning Java
-- 📫 How to reach mail-namanvishvakarma@gmail.com  
 
-<!---
-naman4411/naman4411 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+![68747470733a2f2f692e6962622e636f2f6b3277767170732f636172626f6e322e706e6720616c743d](https://github.com/user-attachments/assets/9a3e7e76-13e9-4b5b-bdc7-588dfbd5c891)

@@ -2,7 +2,7 @@
 
 
 ![68747470733a2f2f692e6962622e636f2f6b3277767170732f636172626f6e322e706e6720616c743d](https://github.com/user-attachments/assets/9a3e7e76-13e9-4b5b-bdc7-588dfbd5c891)
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naman4411&label=Profile%20views&color=0e75b6&style=flat" alt="naman4411" /> </p>
 
